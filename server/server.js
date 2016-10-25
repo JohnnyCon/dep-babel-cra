@@ -13,7 +13,7 @@ const some = async () => {
 }
 
 routes.get('/', (req, res) => {
-  res.status(200).json( {message: 'babel + cra today^^**'} )
+  res.status(200).json( {message: 'babel + cra - blah'} )
 })
 
 app.use('/api', routes)
