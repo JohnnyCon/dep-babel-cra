@@ -16,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel-cli": "^6.18.0",
     "babel-polyfill": "^6.16.0",
     "express": "^4.14.0"
   },
